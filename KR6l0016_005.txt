@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:31.842214
+#+DATE: 2015-08-30 20:50:33.191243
 #+TITLE: 阿毘曇心論經
 #+PROPERTY: CBETA_ID T28n1551
 #+PROPERTY: ID KR6l0016
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1551
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@BEIZANG
 #+PROPERTY: LASTPB <pb:KR6l0016_T_000-0833b>¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6l0016_T_005-0858a> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 《阿毘曇心論經》卷第五¶
+《阿毘曇心論經》卷第五¶
 ¶
 法勝論大德優波扇多釋¶
 高齊天竺三藏那連提耶舍譯¶
@@ -26,7 +25,7 @@
 「　當知未離欲
 　成就味相應¶
 　離下未至上
-　成就淨諸定
+　或就淨諸定
 #+END_VERSE
 」¶
 
@@ -281,11 +280,7 @@
 身識。隨爾時現在前爾時成就。此識滅時名¶
 捨。何以故。係屬根故。¶
 
-8修多羅品
-:PROPERTIES:
-:head: 修多羅品第八
-:END:
-
+修多羅品第八
 <pb:KR6l0016_T_005-0860a>¶
 
 一切智口所說最深微細義。此餘我今當說。¶
@@ -507,8 +502,7 @@
 #+END_VERSE
 」¶
 
-隨信行諸法無煩惱鈍根者。隨信行人自¶
-身無漏法軟分攝者。當知鈍信行攝故。信解¶
+隨信行諸法無煩惱鈍根者。隨信行人自身無漏法軟分攝者。當知鈍信行攝故。信解¶
 脫時解脫亦攝。當知軟根故。隨法行諸法無¶
 煩惱速相者。隨法行自身法利根所攝故。當¶
 知速相彼攝故。見到不時解脫法亦攝。當知。¶
