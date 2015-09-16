@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:31.883963
+#+DATE: 2015-08-30 20:50:35.418602
 #+TITLE: 阿毘曇心論經
 #+PROPERTY: CBETA_ID T28n1551
 #+PROPERTY: ID KR6l0016
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1551
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0016_T_000-0833b>¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6l0016_T_006-0863c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 《阿毘曇心論經》卷第六¶
+《阿毘曇心論經》卷第六¶
 ¶
 法勝論大德優波扇多釋¶
 高齊天竺三藏那連提耶舍譯¶
@@ -269,11 +268,7 @@
 六智知。除他心智法智滅智道智。無色界一¶
 切使所使。如是一切應當知。¶
 
-9雜品
-:PROPERTIES:
-:head: 雜品第九
-:END:
-¶
+雜品第九¶
 
 #+BEGIN_VERSE
 「　已說定相續
@@ -741,11 +736,7 @@
 忍見道壞智者。修道無礙道斷煩惱不復見¶
 道智。無礙道修道中有四智。¶
 
-10問論品
-:PROPERTIES:
-:head: 問論品第十
-:END:
-¶
+問論品第十¶
 
 #+BEGIN_VERSE
 「　離律不律儀

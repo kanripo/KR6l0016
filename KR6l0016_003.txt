@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:31.773911
+#+DATE: 2015-08-30 20:50:35.295044
 #+TITLE: 阿毘曇心論經
 #+PROPERTY: CBETA_ID T28n1551
 #+PROPERTY: ID KR6l0016
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1551
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0016_T_000-0833b>¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6l0016_T_003-0845c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《阿毘曇心論經》卷第三¶
+《阿毘曇心論經》卷第三¶
 ¶
 法勝論大德優波扇多釋¶
 高齊天竺三藏那連提耶舍譯¶
@@ -395,11 +394,7 @@
 得起。現見善法能得起故。是故諸使非不相¶
 應。是相應也。¶
 
-5賢聖品
-:PROPERTIES:
-:head: 賢聖品第五
-:END:
-¶
+賢聖品第五¶
 
 已說流轉次第。不流轉次第今當說。¶
 

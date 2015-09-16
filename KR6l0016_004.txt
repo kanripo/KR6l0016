@@ -1,29 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:31.805882
+#+DATE: 2015-08-30 20:50:35.342646
 #+TITLE: 阿毘曇心論經
 #+PROPERTY: CBETA_ID T28n1551
 #+PROPERTY: ID KR6l0016
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1551
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0016_T_000-0833b>¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6l0016_T_004-0852a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《阿毘曇心論經》卷第四¶
+《阿毘曇心論經》卷第四¶
 ¶
 法勝論大德優波扇多釋¶
 高齊天竺三藏那連提耶舍譯¶
 (六卷成部)¶
 
-6智品
-:PROPERTIES:
-:head: 智品第六(別譯)
-:END:
-¶
+智品第六(別譯)¶
 
 今欲分別涅槃分智。何以故。以智能斷諸煩¶
 惱故。欲廣釋智。故先說此。¶
@@ -536,11 +531,7 @@
 智。智者之所說。願初轉樂欲義轉。故名願智。¶
 彼七智罽賓論師。說除他心智盡智無生智。¶
 
-7定品
-:PROPERTIES:
-:head: 定品第七之一
-:END:
-¶
+定品第七之一¶
 
 如是知諸智。智依義今當說。
 <pb:KR6l0016_T_004-0856a>¶

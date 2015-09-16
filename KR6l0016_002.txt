@@ -1,28 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:31.742677
+#+DATE: 2015-08-30 20:50:35.257147
 #+TITLE: 阿毘曇心論經
 #+PROPERTY: CBETA_ID T28n1551
 #+PROPERTY: ID KR6l0016
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1551
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0016_T_000-0833b>¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6l0016_T_002-0839c> 
 #+PROPERTY: JUAN 2
 ¶
-
- 《阿毘曇心論經》卷第二¶
+《阿毘曇心論經》卷第二¶
 ¶
 法勝論大德優波扇多釋¶
 高齊天竺三藏那連提耶舍譯¶
 (六卷成部)¶
 
-3業品
-:PROPERTIES:
-:head: 業品第三　別譯
-:END:
-¶
+業品第三　別譯¶
 
 已說諸行因緣力生。次觀察世間生滅差別。¶
 由於煩惱業因故生。當思彼業師欲廣說於¶
@@ -617,11 +612,7 @@
 果報因緣故有頂中思說為大果。餘金剛喻¶
 相應思一切大果。彼一切結究竟盡果故。¶
 
-4使品
-:PROPERTIES:
-:head: 使品第四
-:END:
-¶
+使品第四¶
 
 業及煩惱因緣流轉已廣說。業彼業煩惱力¶
 故。受種種生非離煩惱。是故師欲分別煩惱。¶
